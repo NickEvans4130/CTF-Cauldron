@@ -35,7 +35,7 @@ CTF-Cauldron is a collection of 15 powerful batch scripts designed to automate r
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/CTF-Cauldron.git
+git clone https://github.com/NickEvans4130/CTF-Cauldron.git
 cd CTF-Cauldron
 ```
 
@@ -43,7 +43,7 @@ cd CTF-Cauldron
 ```batch
 # Add the CTF-Cauldron directory to your system PATH
 # This allows you to run scripts from anywhere
-setx PATH "%PATH%;C:\path\to\CTF-Cauldron"
+setx PATH "%PATH%;C:\path\to\CTF-Cauldron\scripts"
 ```
 
 3. **Install Prerequisites:**
@@ -353,8 +353,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/CTF-Cauldron/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/CTF-Cauldron/discussions)
+- **Issues**: [GitHub Issues](https://github.com/NickEvans4130/CTF-Cauldron/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/NickEvans4130/CTF-Cauldron/discussions)
 - **Updates**: Watch this repository for new scripts and features
 
 ---
@@ -372,5 +372,3 @@ MIT License - See [LICENSE](LICENSE) file for details
 ---
 
 **Made with 🦇 by the security community, for the security community.**
-
-*Remember: With great power comes great responsibility. Always hack ethically and legally.*
